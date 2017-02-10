@@ -166,3 +166,29 @@ span {
 .some-text > a {
     cursor: pointer;
 }
+
+.margin-row {
+    margin-bottom: 30px;
+}
+
+.footer {
+    background-color: #fff;
+    opacity: 0.9;
+    margin-top: 20px;
+}
+
+.copyright {
+    font-size: 1.25em;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    color: #000;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.visible-brand {
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
